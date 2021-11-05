@@ -1,0 +1,847 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot calendar 1`] = `
+.c0 {
+  -webkit-box-shadow: 0px 16px 20px 0px rgba(63,75,99,0.1);
+  -moz-box-shadow: 0px 16px 20px 0px rgba(63,75,99,0.1);
+  box-shadow: 0px 16px 20px 0px rgba(63,75,99,0.1);
+  position: relative;
+}
+
+.c0:after {
+  background-color: rgba(255,255,255,0.16);
+  content: '';
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.c2 {
+  position: relative;
+  z-index: 1;
+}
+
+.c1 {
+  margin-right: 1rem;
+  background: white;
+  width: 288px;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-radius: 0.25rem 0.25rem 0 0;
+  width: 100%;
+  height: 3rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  background-color: #257fa4;
+  vertical-align: middle;
+  z-index: 2;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c6 {
+  font-family: Santander Headline,Open Sans,sans-serif;
+  text-align: center;
+  color: #ffffff;
+  margin: 0.625rem auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-transform: capitalize;
+  font-size: 1.25rem;
+  font-weight: normal;
+  height: 1.75rem;
+  line-height: 1.75rem;
+}
+
+.c4 {
+  margin: 0rem 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+}
+
+.c5 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.c5:hover {
+  border-radius: 50%;
+  background: rgb(159 198 214 / 80%);
+  box-shadow: rgb(0 0 0 / 20%) 0rem 0.125rem 0.3125rem;
+  -webkit-transition: all 250ms ease-in-out;
+  transition: all 250ms ease-in-out;
+}
+
+.c7 {
+  display: grid;
+  grid-template-rows: repeat(7,auto);
+  font-family: Santander Micro Text,Open Sans,sans-serif;
+  grid-template-columns: repeat(7,auto);
+  height: auto;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0.5rem;
+}
+
+.c8 {
+  text-align: center;
+  color: #257fa4;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 0.875rem;
+  font-family: Santander Micro Text,Open Sans,sans-serif;
+  text-transform: uppercase;
+  margin: 0.25rem 0rem;
+}
+
+.c9 {
+  background-color: #ffffff;
+  border-radius: 0%;
+  margin: 2px 0;
+}
+
+.c11 {
+  background-color: #257fa4;
+  border-radius: 50%;
+  margin: 2px 0;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border: none;
+  border-radius: 50%;
+  width: 2.3rem;
+  height: 2.3rem;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  color: #1e1f21;
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  background-color: transparent;
+  font-family: Santander Micro Text,Open Sans,sans-serif;
+  font-size: 0.875rem;
+}
+
+.c10:hover {
+  border: 1px solid #257fa4;
+  color: #257fa4;
+  background-color: #ffffff;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #257fa4;
+  border-radius: 50%;
+  width: 2.3rem;
+  height: 2.3rem;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  color: #257fa4;
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  background-color: #ffffff;
+  font-family: Santander Micro Text,Open Sans,sans-serif;
+  font-size: 0.875rem;
+}
+
+.c12:hover {
+  border: 1px solid #257fa4;
+  color: #257fa4;
+  background-color: #ffffff;
+}
+
+@media (min-width:48em) {
+
+}
+
+@media (min-width:75em) {
+
+}
+
+@media (min-width:48em) {
+
+}
+
+@media (min-width:75em) {
+
+}
+
+@media (min-width:48em) {
+
+}
+
+@media (min-width:48em) {
+
+}
+
+<div
+  aria-labelledby="id-heading-0"
+  aria-modal="true"
+  class="c0 c1"
+  role="dialog"
+>
+  <div
+    class="c2"
+  >
+    <div
+      class="c3"
+    >
+      <button
+        aria-hidden="true"
+        aria-label="ir mes previo"
+        class="c4"
+      >
+        <span
+          class="c5"
+        >
+          <svg
+            height="1.5rem"
+            role="img"
+            viewBox="0 0 24 24"
+            width="1.5rem"
+          >
+            
+            <path
+              d="M15.35,5.65 C15.2592667,5.55332277 15.1325859,5.49848135 15,5.49848135 C14.8674141,5.49848135 14.7407333,5.55332277 14.65,5.65 L8.65,11.65 C8.55332277,11.7407333 8.49848135,11.8674141 8.49848135,12 C8.49848135,12.1325859 8.55332277,12.2592667 8.65,12.35 L14.65,18.35 C14.7407333,18.4466772 14.8674141,18.5015186 15,18.5015186 C15.1325859,18.5015186 15.2592667,18.4466772 15.35,18.35 C15.4466772,18.2592667 15.5015186,18.1325859 15.5015186,18 C15.5015186,17.8674141 15.4466772,17.7407333 15.35,17.65 L9.71,12 L15.35,6.35 C15.4466772,6.25926667 15.5015186,6.13258591 15.5015186,6 C15.5015186,5.86741409 15.4466772,5.74073333 15.35,5.65 Z"
+              fill="white"
+            />
+          </svg>
+        </span>
+      </button>
+      <h2
+        aria-live="polite"
+        class="c6"
+        id="id-heading-0"
+        role="heading"
+      >
+        julio 2021
+      </h2>
+      <button
+        aria-hidden="true"
+        aria-label="ir próximo mes"
+        class="c4"
+      >
+        <span
+          class="c5"
+        >
+          <svg
+            height="1.5rem"
+            role="img"
+            viewBox="0 0 24 24"
+            width="1.5rem"
+          >
+            
+            <path
+              d="M8.65,18.35 C8.74073333,18.4466772 8.86741409,18.5015186 9,18.5015186 C9.13258591,18.5015186 9.25926667,18.4466772 9.35,18.35 L15.35,12.35 C15.4466772,12.2592667 15.5015186,12.1325859 15.5015186,12 C15.5015186,11.8674141 15.4466772,11.7407333 15.35,11.65 L9.35,5.65 C9.25926667,5.55332277 9.13258591,5.49848135 9,5.49848135 C8.86741409,5.49848135 8.74073333,5.55332277 8.65,5.65 C8.55332277,5.74073333 8.49848135,5.86741409 8.49848135,6 C8.49848135,6.13258591 8.55332277,6.25926667 8.65,6.35 L14.29,12 L8.65,17.65 C8.55332277,17.7407333 8.49848135,17.8674141 8.49848135,18 C8.49848135,18.1325859 8.55332277,18.2592667 8.65,18.35 Z"
+              fill="white"
+            />
+          </svg>
+        </span>
+      </button>
+    </div>
+    <div
+      aria-hidden="false"
+      aria-label="Elegir fecha"
+      aria-labelledby="id-heading-0"
+      class="c7"
+      role="grid"
+    >
+      <div
+        aria-label="lunes"
+        class="c8"
+      >
+        LUN
+      </div>
+      <div
+        aria-label="martes"
+        class="c8"
+      >
+        MAR
+      </div>
+      <div
+        aria-label="miercoles"
+        class="c8"
+      >
+        MIE
+      </div>
+      <div
+        aria-label="jueves"
+        class="c8"
+      >
+        JUE
+      </div>
+      <div
+        aria-label="viernes"
+        class="c8"
+      >
+        VIE
+      </div>
+      <div
+        aria-label="sabado"
+        class="c8"
+      >
+        SAB
+      </div>
+      <div
+        aria-label="domingo"
+        class="c8"
+      >
+        DOM
+      </div>
+      <div />
+      <div />
+      <div />
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 01 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            01
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 02 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            02
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 03 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            03
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 04 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            04
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 05 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            05
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 06 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            06
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 07 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            07
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 08 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            08
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 09 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            09
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 10 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            10
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 11 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            11
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 12 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            12
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 13 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            13
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 14 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            14
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 15 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            15
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 16 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            16
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 17 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            17
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 18 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            18
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 19 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            19
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 20 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            20
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 21 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            21
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 22 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            22
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 23 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            23
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 24 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            24
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 25 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            25
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 26 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            26
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 27 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            27
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 28 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            28
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c11"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 29 de julio 2021"
+            aria-selected="true"
+            class="c12"
+            tabindex="0"
+            type="button"
+          >
+            29
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 30 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            30
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          class="c9"
+          role="gridcell"
+        >
+          <button
+            aria-label="seleccionar 31 de julio 2021"
+            aria-selected="false"
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            31
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
